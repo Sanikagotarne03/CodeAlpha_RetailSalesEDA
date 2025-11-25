@@ -32,10 +32,15 @@ Feature	Description
 | Order Priority | Urgency of order                                               |
 
 🔍 Analysis Highlights
+
 ✔ Best performing regions and customer segments
+
 ✔ Most profitable product categories and sub-categories
+
 ✔ Discount vs Profit – How discounts impact revenue
+
 ✔ Shipping cost comparison across regions
+
 ✔ Top loss-making & profit-driven items
 
 📈 Visualizations Included
@@ -52,14 +57,21 @@ Feature	Description
 
 📌 Key Insights & Business Impact
 Technology category generated highest profit.
+
 West region performed best overall.
+
 Higher discounts resulted in lower profitability.
+
 Consumer segment generated maximum orders.
+
 Shipping costs did not significantly affect profit margins.
 
 🧠 Conclusion
+
 EDA helped uncover actionable insights that can help businesses optimize pricing strategies, product focus, shipping plans, and discount policies to boost profitability.
 
 🤝 Connect With Me
+
 👤 Sanika Gotarne
+
 🔗 LinkedIn: http://www.linkedin.com/in/sanika-gotarne-451462290
